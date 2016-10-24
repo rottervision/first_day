@@ -1,0 +1,17 @@
+body {
+	font-family: Oswald;
+	background-image: url("../images/brod_med.gif");
+    background-color: #87cefa;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center top;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+h2 {
+    color: gray;
+    margin-left: 14px;
+}
